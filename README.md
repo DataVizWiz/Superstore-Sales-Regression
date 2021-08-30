@@ -6,5 +6,6 @@ Superstore PLC is a multinational groceries and general merchandise retailer bas
 - High level analytics across various products
 - Churn analysis
 
-
+## The Data
+The data can be found at https://www.kaggle.com/rohitsahoo/sales-forecasting.
 
